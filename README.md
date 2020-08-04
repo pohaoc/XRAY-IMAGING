@@ -21,23 +21,6 @@ The datasets are from [HERE](https://github.com/ieee8023/covid-chestxray-dataset
 The command above should print "Negative"
 
 ## Model
-
-I was able to get a 100% accuracy on validation data, however it's likely due to a small dataset
-I did a 80/20 split for the dataset
-Layer (type) | Output Shape | Param 
--------|----|-------
-Conv2D | 32 | 896
-Conv2D | 64 | 18496
-MaxPooling2D | 64 | 0
-Dropout 0.25 | 64 | 0
-Conv2D | 64 | 36928
-MaxPooling2D | 64 | 0
-Dropout 0.25 | 64 | 0
-Conv2D | 128 | 73856
-MaxPooling2D | 128 | 0
-Dropout 0.25 | 64 | 0
-Flatten | | 0
-Dense | 64 | 5537856
-Dropout 0.5| 64 | 0
-Dense | 1 | 65
-
+I was able to get a 100% accuracy on validation data, however it's likely due to a small dataset I did a 80/20 split for the dataset
+![Architecture](https://github.com/du00d/XRAY-IMAGING/blob/master/img/architecture.png)
+![alias](https://github.com/du00d/XRAY-IMAGING/blob/master/img/alias.png)
