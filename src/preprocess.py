@@ -1,5 +1,5 @@
 import shutil
-import pandas as pd
+#import pandas as pd
 import os
 import random
 PATH_COVID = "/home/usr/workspace/pycharm-workspace/XRAY-IMAGING/data/covid-chestxray-dataset/metadata.csv"
