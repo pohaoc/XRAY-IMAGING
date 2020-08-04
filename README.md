@@ -25,3 +25,7 @@ The command above should print "Negative"
 I was able to get a 100% accuracy on validation data, however it's likely due to a small dataset I did a 80/20 split for the dataset
 ![Architecture](https://github.com/du00d/XRAY-IMAGING/blob/master/img/architecture.png)
 ![alias](https://github.com/du00d/XRAY-IMAGING/blob/master/img/alias.png)
+
+## Training
+![Epoch accuracy](https://github.com/du00d/XRAY-IMAGING/blob/master/img/tensorboard.png)
+![Epoch loss](https://github.com/du00d/XRAY-IMAGING/blob/master/img/tensorboard2.png)
