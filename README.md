@@ -4,7 +4,7 @@ Analyzing X-Ray Imaging of potential covid-patient using deep learning
 ![XRAY](https://github.com/du00d/XRAY-IMAGING/blob/master/img/xray.png)
 
 ## Disclaimer
-**The dataset was quite small (180 images each). I do not claim any diagonstic performance of the model this is simply an experiment**
+**The dataset was quite small (180 images each). I do not claim any diagonstic performance of the model this is simply an experiment inspired by this [paper](https://arxiv.org/abs/2004.05405)**
 
 ## Dependencies
 * Tensorflow 2.0
