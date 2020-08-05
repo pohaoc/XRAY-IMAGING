@@ -13,7 +13,7 @@ Analyzing X-Ray Imaging of potential covid-patient using deep learning
 * CV2
 
 ## Datasets
-The datasets are from [HERE](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md) and [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+The datasets are from [HERE](https://github.com/ieee8023/covid-chestxray-dataset) and [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## Example
 
