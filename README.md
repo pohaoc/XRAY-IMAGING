@@ -21,7 +21,7 @@ The datasets are from [HERE](https://github.com/ieee8023/covid-chestxray-dataset
 
 The command above should print "Negative"
 
-## Model
+## Architecture
 I was able to get a 100% accuracy on validation data, however it's likely due to a small dataset I did a 80/20 split for the dataset
 ![Architecture](https://github.com/du00d/XRAY-IMAGING/blob/master/img/architecture.png)
 ![alias](https://github.com/du00d/XRAY-IMAGING/blob/master/img/alias.png)
