@@ -6,11 +6,16 @@ Analyzing X-Ray Imaging of potential covid-patient using deep learning
 ## Disclaimer
 **The dataset was quite small (180 images each). I do not claim any diagonstic performance of the model this is simply an experiment**
 
-## Requirements
+## Dependencies
 * Tensorflow 2.0
 * Keras
 * Numpy 
 * CV2
+
+<code>pip install tensorflow</code> 
+or <code>pip install tensorflow-gpu</code> (For the [GPU](https://www.tensorflow.org/install/gpu) accelerated version)
+
+<code>pip install opencv-python</code>
 
 ## Datasets
 XRAY Images of COVID Patients vs Normal (PA View)
